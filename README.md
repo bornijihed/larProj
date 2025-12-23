@@ -817,10 +817,10 @@ mso-ansi-language:EN-US'>```bash<o:p></o:p></span></p>
 <p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
 "Times New Roman";mso-ansi-language:EN-US'>git</span></span><span lang=EN-US
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'>
-clone https://github.com/your-username/lostnfound-hub.git<o:p></o:p></span></p>
+clone https://github.com/bornijihed/lostndfound.git<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>cd <span class=SpellE>lostnfound</span>-hub</span></p>
+mso-ansi-language:EN-US'>cd <span class=SpellE>lostnfound</p>
 
 </div>
 
